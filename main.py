@@ -4,4 +4,4 @@ app = Flask(__name__)
 
 @app.route('/')
 def temp_fun():
-    print('Jay Swamianrayan')
+    print('Jay Swamianrayan Tirth')
