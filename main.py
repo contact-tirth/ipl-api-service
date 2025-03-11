@@ -5,3 +5,5 @@ app = Flask(__name__)
 @app.route('/')
 def temp_fun():
     print('Jay Swamianrayan Tirth')
+
+    app.run(debug=True)
